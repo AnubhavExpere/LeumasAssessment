@@ -1,0 +1,19 @@
+.transactions-container {
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+.product-select-container {
+    margin-bottom: 20px;
+    background-color: aliceblue;
+}
+
+.transactions-table-container {
+    background-color: azure;
+}
+
+.add-transactions-container {
+    margin-top: 20px;
+}

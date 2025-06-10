@@ -1,0 +1,27 @@
+.products-container {
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+.edit-product-container {
+    margin-bottom: 20px;
+    background-color: aliceblue;
+}
+
+.product-table-container {
+    background-color: azure;
+}
+
+.add-product-container {
+    margin-top: 20px;
+}
+
+th {
+    padding: 2px;
+}
+
+td {
+    padding: 2px;
+}
