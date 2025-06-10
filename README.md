@@ -1,3 +1,3 @@
 # LeumasAssessment
 
-![Video](videos/screen-capture.mp4)
+Please find the video in 'videos' folder
