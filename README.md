@@ -1,3 +1,3 @@
 # LeumasAssessment
 
-![](videos/screen-capture.mp4)
+![Video](videos/screen-capture.mp4)
